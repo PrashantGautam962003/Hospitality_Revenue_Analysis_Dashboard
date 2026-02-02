@@ -163,18 +163,11 @@ Built a fully interactive Power BI dashboard designed for business stakeholders.
 ## Power BI Dashboard (Published)
 
 **Power BI Service Link:**
-*Add your published Power BI report link here*
+*https://app.powerbi.com/groups/me/reports/962947d8-56e2-455c-9a60-458caea3eaee/87ec79525eb381d99c55?experience=power-bi*
 
 > Note: Use this link to access the interactive dashboard online via Power BI Service.
 
 ---
-
-## Dataset Access
-
-**Google Drive Dataset Link:**
-*Add your Google Drive link containing all CSV files here*
-
-> The dataset includes fact and dimension tables used for building the Power BI data model.
 
 ---
 
@@ -203,6 +196,7 @@ This project reflects **real company-level hospitality analytics work**, includi
 ## Author
 
 **Prashant Gautam**
+
 B.Tech, Electronics and Communication Engineering
 IIT (ISM) Dhanbad
 
